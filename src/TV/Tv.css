@@ -1,0 +1,72 @@
+.mob-cards
+{
+    display: inline-block;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px; 
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+
+.main {
+    width: 100%;
+}
+
+.mob-cards:hover
+{
+    transform: scale(1.1); 
+    transition: 1s ease;
+    
+}
+
+
+
+.card-img-mob
+{
+    height: 250px;
+    width: 250px;
+}
+
+.row-cards
+{
+    margin-bottom: 30px;
+}
+
+.card-img-tv-footer
+{
+    border-top: 1px solid rgb(8, 6, 6);
+    background-color: rgb(240, 239, 239);
+    height: 115px;
+} 
+
+.card-tv-model-text
+{
+    padding-top: 24px;
+    font-weight: bold;
+}
+
+.card-tv-price-text
+{
+    font-weight: bold;
+    color: red;
+}
+
+.catergory-heading-mob
+{
+    margin-top: 50px;
+    /* margin-left: 68px; */
+    /* margin-bottom: 50px; */
+    font-size: 40px;
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+
+}
+
+.hori-line{
+    height: 40px;
+}
+

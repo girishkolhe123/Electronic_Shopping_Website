@@ -1,0 +1,58 @@
+.tv-cards
+{
+    display: inline-block;
+    border: 1px solid red;
+    background-color: white;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.main{
+    padding-bottom: 40px;
+}
+
+.card-img-tv
+{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    height: 192px;
+}
+
+.card-img-tv-footer
+{
+    border-top: 1px solid red;
+    background-color: rgb(240, 239, 239);
+    height: 115px;
+}
+
+.card-tv-model-text
+{
+    padding-top: 24px;
+    font-weight: bold;
+}
+
+.card-tv-price-text
+{
+    font-weight: bold;
+    color: red;
+}
+
+.catergory-heading-tv
+{
+    margin-top: 100px;
+    margin-left: 68px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    font-weight: bold;
+    width: 220px;
+    border-bottom: 4px solid rgb(168, 140, 140);    
+}
+
+
+.tv-cards:hover
+{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+}

@@ -1,0 +1,58 @@
+.tv-cards
+{
+    display: inline-block;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 30px; 
+    width: 340px;
+    margin-bottom: 30px;
+    
+}
+
+.three-cards{
+    display: flex;
+}
+
+
+.card-img-tv
+{
+    height: 200px;
+    width: 200px;
+}
+
+.row-cards
+{
+    margin-bottom: 30px;
+}
+
+
+
+.card-tv-model-text
+{
+    padding-top: 24px;
+    font-weight: bold;
+}
+
+.card-tv-price-text
+{
+    font-weight: bold;
+    color: red;
+}
+
+.catergory-heading-mob
+{
+    margin-top: 50px;
+    /* margin-left: 68px; */
+    /* margin-bottom: 50px; */
+    font-size: 40px;
+    font-weight: bold;
+    width: 100%;
+    text-align: left;
+
+}
+
+.hori-line{
+    height: 40px;
+}
+

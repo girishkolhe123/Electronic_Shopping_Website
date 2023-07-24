@@ -1,0 +1,34 @@
+.header-body
+{
+    background-color: #645CBB;
+}
+
+.login-bt
+{
+    line-height: 39px;
+}
+
+.nav-head{
+    height:70px ;
+    font-size: large;
+}
+
+.search-box{
+    margin-top: 30px;
+    height: 40px;
+}
+
+.search-btn{
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.right-navbar{
+    margin-right: 80px;
+}
+
+.btn1{
+    margin-left: 10px;
+    margin-bottom: 30px;
+    /* height: 30px; */
+}

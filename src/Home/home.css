@@ -1,0 +1,39 @@
+.home-body
+{
+    background-color: #EBC7E6;
+    height: 100%;
+}
+
+.shop-category-text
+{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.icon-category
+{
+    /* height: 70px; */
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.icon-category1{
+    font-size: 50px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.icon-category1:hover {
+    color: blue;
+}
+
+.icon-category-label
+{
+    margin-top: 15px;
+    padding-left: 150px;
+}
+

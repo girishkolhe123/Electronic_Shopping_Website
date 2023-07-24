@@ -1,0 +1,40 @@
+.eye-icon
+{
+    /* border: 1px solid red; */
+    position: absolute;
+    margin-left: 100px;
+    font-size: 23px;
+    bottom: 95px;
+    cursor: pointer;
+}
+
+.regt-img-mp {
+    border-radius: 50%;
+    height: 16rem;
+    width: 16rem;
+    margin-top: 3rem;
+    margin-left: 5rem;
+
+}
+
+.register{
+    background-color: rgb(255, 0, 0);
+}
+
+.add-p-p {
+    margin-left: 135px;
+    margin-top: 15px;
+}
+
+.add-p-p-upd{
+    margin-top: 15px;
+}
+
+.add-p-p:hover , .add-p-p-upd:hover{
+    background-color: rgb(224, 16, 197);
+    font-weight:600;
+}
+
+.head-regt{
+    margin-top: 10px;
+}
